@@ -17,8 +17,8 @@ Show the filtered image
 
 # Program:
 ```
-## Developed By   :KRISHNA PRAKAASH D M
-## Register Number: 212221230052
+ Developed By   :KRISHNA PRAKAASH D M
+ Register Number: 212221230052
 ```
 
 # 1. Smoothing Filters
