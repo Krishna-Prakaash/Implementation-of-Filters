@@ -138,7 +138,7 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 
 ## ORIGINAL IMAGE:
-![OUTPUT-1](IMG001.PNG)
+![OUTPUT-1](IMG-001.PNG)
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
